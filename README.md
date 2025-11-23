@@ -8,6 +8,8 @@ https://fil-c.org/
 # Fil-C: completely compatible memory safety for C and C++
 - https://github.com/pizlonator/fil-c/
 
+- https://fil-c.org/invisicaps_by_example
+
 # Fil-C
 - https://fil-c.org/
   - https://github.com/pizlonator/fil-c/ 
