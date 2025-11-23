@@ -18,6 +18,9 @@ https://fil-c.org/
 
 - https://fil-c.org/invisicaps_by_example
 
+# fil-c Documentataion
+- https://fil-c.org/documentation
+
 # Fil-C
 - https://fil-c.org/
   - https://github.com/pizlonator/fil-c/ 
